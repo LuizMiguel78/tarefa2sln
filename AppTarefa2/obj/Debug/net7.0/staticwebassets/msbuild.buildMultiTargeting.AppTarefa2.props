@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\AppTarefa2.props" />
-</Project>
