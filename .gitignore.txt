@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+
+# Arquivos compilados
+bin/
+obj/
+
+# Arquivos temporários do usuário
+*.user
+*.suo
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Arquivos de debug
+*.pdb
+*.cache
